@@ -39,7 +39,7 @@ async function getFormulaOneDrivers()
             console.log("File saved successfully")
         })
 
-        //console.log(items)
+        console.log(items)
         
     } catch (error) {
         console.log(error)
